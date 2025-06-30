@@ -9,7 +9,7 @@ Built using **React**, **Django REST Framework**, and **Bootstrap 5**, this proj
 
 ## 🌐 Live Preview
 
-[🔗 View Demo (optional link if deployed)](#)
+[🔗 View Demo (link deployed)](#)
 
 ---
 
@@ -58,8 +58,6 @@ Built using **React**, **Django REST Framework**, and **Bootstrap 5**, this proj
 - Git Bash / Terminal
 - Chrome DevTools
 
----
 
-## 📁 Project Structure
 
 
