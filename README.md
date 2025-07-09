@@ -7,16 +7,8 @@ Built using **React**, **Django REST Framework**, and **Bootstrap 5**, this proj
 
 ---
 
-## 🌐 Live Preview
-
-[🔗 View Demo (link deployed)](#)
-
----
-
 ## 📸 Screenshots
 
-### 🔍 Search & Light Mode  
-![Home page in Light Mode](screenshots/search-light.png)
 
 ### 🌙 Dark Mode with Favorites  
 ![Home Page in Dark Mode](screenshots/main_page.png)
